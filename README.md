@@ -16,6 +16,17 @@ Frontend / Static Website
 E-Commercial/
 ├─ assets/
 │  ├─ img/
+│  │  ├─ categori/
+│  │  │    ├─ cat1.jpg
+│  │  │    ├─ cat2.jpg
+│  │  │    └─ cat3.jpg
+│  │  ├─ gallery/
+│  │  │    ├─ gallery1.jpg
+│  │  │    └─ gallery4.jpg
+│  │  ├─ hero/
+│  │  │    └─ hero_man.png
+│  │  └─ product/
+│  │       └─ single_product.png
 │  ├─ appStyles.css
 │  └─ app.js
 ├─ index.html
@@ -24,7 +35,6 @@ E-Commercial/
 ├─ blog.html
 ├─ contact.html
 └─ README.md
-
 ````
 
 ---
@@ -57,4 +67,5 @@ Then open **`index.html`** in a browser, or use **Live Server** in VS Code.
 
 Free to use and modify for learning or personal projects.
 © RNS. All rights reserved.
+
 
