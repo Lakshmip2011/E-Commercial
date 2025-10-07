@@ -58,9 +58,3 @@ Then open **`index.html`** in a browser, or use **Live Server** in VS Code.
 Free to use and modify for learning or personal projects.
 © RNS. All rights reserved.
 
-```
-
----
-
-Would you like me to make it look **GitHub-styled** (with badges, emojis, and a small banner at the top)?
-```
