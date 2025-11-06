@@ -68,4 +68,7 @@ Then open **`index.html`** in a browser, or use **Live Server** in VS Code.
 Free to use and modify for learning or personal projects.
 © RNS. All rights reserved.
 
+## Tags
+#e-commerce #online-store #web-application #java #mysql
+
 
